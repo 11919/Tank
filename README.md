@@ -7,4 +7,6 @@
 <Example of Screenshots of our completed Tank Game.</b><br><br>
 Tank Game Start Screen</b>&nbsp;&nbsp;:octocat:<br><br>
 ![Alt Text] (https://github.com/11919/Tank/blob/master/Screenshots/tank.JPG "Start Screen")
+![Alt Text] (https://github.com/11919/Tank/blob/master/Screenshots/T.JPG "Start Screen")
+![Alt Text] (https://github.com/11919/Tank/blob/master/Screenshots/A.JPG "Start Screen")
 <br><br>
